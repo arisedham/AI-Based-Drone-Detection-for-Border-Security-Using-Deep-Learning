@@ -1,2 +1,2 @@
 # AI-Based-Drone-Detection-for-Border-Security-Using-Deep-Learning
-This project aims to detect drones in border surveillance settings using deep learning models. It classifies images into `Drone` vs `Non-Drone`.
+Collection of CNN and ResNet-based deep learning models for drone and image recognition tasks.
