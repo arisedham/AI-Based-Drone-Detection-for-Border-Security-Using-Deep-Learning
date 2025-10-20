@@ -1,7 +1,7 @@
 # AI-Based-Drone-Detection-for-Border-Security-Using-Deep-Learning
 Collection of CNN and ResNet-based deep learning models for drone and image recognition tasks. Clink here for more: https://new.express.adobe.com/webpage/AjDUvS4OC9GJo
 
-# Deep Learning Portfolio
+
 
 This repository demonstrates a project titled **“AI-Based Drone Detection for Border Security Using Deep Learning”** which uses Convolutional Neural Networks (CNN) and ResNet50 models to classify drone vs non-drone images in a border security context.
 
