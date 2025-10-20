@@ -24,4 +24,3 @@ Develop a real-time drone detection system using deep learning (CNN & ResNet50) 
 - ResNet50: pretrained transfer-learning for superior performance  
 - Results: CNN achieved ~85% accuracy with good precision on Drone class (0.95) but weaker on Non-Drone. ResNet50 achieved ~94% accuracy with balanced precision/recall/F1 for both classes. (From slides)  
 
-### 📁 Folder Structure
